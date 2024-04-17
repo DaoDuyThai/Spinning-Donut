@@ -9,6 +9,7 @@
     var K1 = 150;
     var K2 = 5;
 
+    
     // Function to render ASCII frame
     function renderAsciiFrame() {
         var b = []; // Array to stay acii chars
